@@ -19,3 +19,15 @@ int main()
 
     return 0;
 }
+
+
+/*
+
+
+Here we see the behavior of variables in C in ram memory
+
+
+*/
+
+
+
